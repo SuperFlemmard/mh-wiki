@@ -1,8 +1,9 @@
-package com.mhwiki.toolkit.service.domain;
+package com.mhwiki.toolkit.domain;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 
+@Data
 @Getter
 @Setter
 @AllArgsConstructor

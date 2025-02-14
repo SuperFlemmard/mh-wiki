@@ -1,43 +1,86 @@
 package com.mhwiki.toolkit;
 
+import com.mhwiki.toolkit.domain.ItemTypeEnum;
 import com.mhwiki.toolkit.service.ItemService;
-import com.mhwiki.toolkit.service.domain.Item;
+import com.mhwiki.toolkit.domain.Item;
+import com.mhwiki.toolkit.service.LogService;
+import com.mhwiki.toolkit.service.WriterService;
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
+import java.io.IOException;
 import java.util.List;
 
 @SpringBootApplication
 public class ToolkitApplication {
 
-	private static final String CONSUMABLE_TYPE = "Item";
-	private static final String MATERIAL_TYPE = "Material";
-	private static final String AMMO_TYPE = "Ammo_or_Coating";
-	private static final String ACCOUNT_ITEM_TYPE = "Account_Item";
-	private static final String JEWEL_TYPE = "Jewel";
-	private static final String ROOM_DECORATION_TYPE = "Room_Decoration";
+	private static final Logger log = LoggerFactory.getLogger(ItemService.class);
 
-	public static void main(String[] args) {
-		// Get the service bean
+	public static void main(String[] args) throws IOException {
+		// Get the service beans
 		ApplicationContext context = SpringApplication.run(ToolkitApplication.class, args);
 		ItemService itemService = context.getBean(ItemService.class);
+		LogService logService = context.getBean(LogService.class);
+		WriterService writerService = context.getBean(WriterService.class);
 
 		// Read the file and populate the list
 		// Replace the value with the file in ressources/input you want to read
-		// reducedItemList.json /  mhwi.items.json
-		String filename = "reducedItemList.json";
+		String filename = "mhwi.items.json";
 		List<Item> items = itemService.getItemsFromJson(filename);
+		log.info("The file has {} items", items.size());
 
-		// Sort the items based on their type
-		List<Item> consumables = items.stream().filter(item -> StringUtils.equalsIgnoreCase(item.getType(), CONSUMABLE_TYPE)).toList();
-		List<Item> materials = items.stream().filter(item -> StringUtils.equalsIgnoreCase(item.getType(), MATERIAL_TYPE)).toList();
-		List<Item> ammunitions = items.stream().filter(item -> StringUtils.equalsIgnoreCase(item.getType(), AMMO_TYPE)).toList();
-		List<Item> accountItems = items.stream().filter(item -> StringUtils.equalsIgnoreCase(item.getType(), ACCOUNT_ITEM_TYPE)).toList();
-		List<Item> jewels = items.stream().filter(item -> StringUtils.equalsIgnoreCase(item.getType(), JEWEL_TYPE)).toList();
-		List<Item> roomDecos = items.stream().filter(item -> StringUtils.equalsIgnoreCase(item.getType(), ROOM_DECORATION_TYPE)).toList();
+		// Sort the items based on their type and filter them
+		List<Item> consumables = items.stream()
+				.filter(item ->
+						StringUtils.equals(item.getType(), ItemTypeEnum.CONSUMABLE_TYPE)
+						&& !StringUtils.equals(item.getName(), "Unavailable")
+						&& !StringUtils.equals(item.getDescription(), "Signal to your Palico to use their Palico Gadget.")
+						&& !StringUtils.equals(item.getDescription(), "Unavailable")
+				).toList();
 
+		List<Item> materials = items.stream()
+				.filter(item ->
+						StringUtils.equals(item.getType(), ItemTypeEnum.MATERIAL_TYPE)
+						&& !StringUtils.equals(item.getName(), "Unavailable")
+						&& !StringUtils.equals(item.getName(), "HARDUMMY")
+						&& !StringUtils.equals(item.getDescription(), "Unavailable")
+				).toList();
+
+		List<Item> ammunitions = items.stream()
+				.filter(item ->
+						StringUtils.equals(item.getType(), ItemTypeEnum.AMMO_TYPE)
+						&& !StringUtils.equals(item.getDescription(), "Unavailable")
+				).toList();
+
+		List<Item> accountItems = items.stream()
+				.filter(item ->
+						StringUtils.equals(item.getType(), ItemTypeEnum.ACCOUNT_ITEM_TYPE)
+						&& !StringUtils.equals(item.getName(), "Unavailable")
+						&& !StringUtils.equals(item.getDescription(), "Unavailable")
+				).toList();
+
+		List<Item> jewels = items.stream()
+				.filter(item ->
+						StringUtils.equals(item.getType(), ItemTypeEnum.JEWEL_TYPE)
+						&& !StringUtils.equals(item.getName(), "Unavailable")
+						&& !StringUtils.equals(item.getDescription(), "Unavailable")
+				).toList();
+
+		List<Item> roomDecos = items.stream()
+				.filter(item ->
+						StringUtils.equals(item.getType(), ItemTypeEnum.ROOM_DECORATION_TYPE)
+						&& !StringUtils.equals(item.getName(), "Unavailable")
+						&& !StringUtils.equals(item.getDescription(), "Unavailable")
+				).toList();
+
+		// Log
+		logService.logSizes(consumables.size(), materials.size(), ammunitions.size(), accountItems.size(), jewels.size(), roomDecos.size());
+
+		// Write to txt file
+		writerService.writeToFile(consumables, materials, ammunitions, accountItems, jewels, roomDecos);
 	}
 }

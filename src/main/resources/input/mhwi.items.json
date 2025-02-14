@@ -5789,7 +5789,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Restores a small amount of health. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Restores a small amount of health. (Supply Item)"
   },
   {
     "Name": "First-aid Med+",
@@ -5821,7 +5821,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Restores a moderate amount of health. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Restores a moderate amount of health. (Supply Item)"
   },
   {
     "Name": "EZ Ration",
@@ -5853,7 +5853,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Restores a small amount of stamina. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Restores a small amount of stamina. (Supply Item)"
   },
   {
     "Name": "EZ Lifepowder",
@@ -5885,7 +5885,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Produces a healing cloud around the area that heals anyone that comes in contact with it. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Produces a healing cloud around the area that heals anyone that comes in contact with it. (Supply Item)"
   },
   {
     "Name": "EZ Max Potion",
@@ -5917,7 +5917,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Fully restores health and maximizes your Health Gauge. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Fully restores health and maximizes your Health Gauge. (Supply Item)"
   },
   {
     "Name": "EZ Large Barrel Bomb",
@@ -5949,7 +5949,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A powered-up large barrel bomb. Just as powerful as a mega barrel bomb. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "A powered-up large barrel bomb. Just as powerful as a mega barrel bomb. (Supply Item)"
   },
   {
     "Name": "EZ Shock Trap",
@@ -5981,7 +5981,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Immobilizes a target for easy capture. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Immobilizes a target for easy capture. (Supply Item)"
   },
   {
     "Name": "EZ Pitfall Trap",
@@ -6013,7 +6013,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Activates a pitfall to catch monsters with. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Activates a pitfall to catch monsters with. (Supply Item)"
   },
   {
     "Name": "EZ Herbal Powder",
@@ -6045,7 +6045,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Cures poison and restores a bit of health for everyone nearby. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Cures poison and restores a bit of health for everyone nearby. (Supply Item)"
   },
   {
     "Name": "EZ Demon Powder",
@@ -6077,7 +6077,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Temporarily strengthens attacks for everyone nearby. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Temporarily strengthens attacks for everyone nearby. (Supply Item)"
   },
   {
     "Name": "EZ Hardshell Powder",
@@ -6109,7 +6109,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Temporarily increases defense strength for everyone nearby. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Temporarily increases defense strength for everyone nearby. (Supply Item)"
   },
   {
     "Name": "EZ Dung Pod",
@@ -6141,7 +6141,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Releases a strong odor on impact. Causes certain monsters to flee. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Releases a strong odor on impact. Causes certain monsters to flee. (Supply Item)"
   },
   {
     "Name": "EZ Flash Pod",
@@ -6173,7 +6173,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Slinger ammo that flashes brightly on impact. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Slinger ammo that flashes brightly on impact. (Supply Item)"
   },
   {
     "Name": "EZ Screamer Pod",
@@ -6205,7 +6205,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Slinger ammo that emits an earsplitting sonic blast. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Slinger ammo that emits an earsplitting sonic blast. (Supply Item)"
   },
   {
     "Name": "Throwing Knife",
@@ -6237,7 +6237,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A knife that can be shot from your slinger. Can be coated with a range of chemicals. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "A knife that can be shot from your slinger. Can be coated with a range of chemicals. (Supply Item)"
   },
   {
     "Name": "Poison Knife",
@@ -6269,7 +6269,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A knife coated with poison that can be shot from your slinger. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "A knife coated with poison that can be shot from your slinger. (Supply Item)"
   },
   {
     "Name": "Sleep Knife",
@@ -6301,7 +6301,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A knife coated with a sedative that can be shot from your slinger. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "A knife coated with a sedative that can be shot from your slinger. (Supply Item)"
   },
   {
     "Name": "Paralysis Knife",
@@ -6333,7 +6333,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A knife coated with a paralyzing toxin that can be shot from your slinger. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "A knife coated with a paralyzing toxin that can be shot from your slinger. (Supply Item)"
   },
   {
     "Name": "Tranq Knife",
@@ -6365,7 +6365,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A knife coated with a tranquilizer that can be shot from your slinger. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "A knife coated with a tranquilizer that can be shot from your slinger. (Supply Item)"
   },
   {
     "Name": "EZ Farcaster",
@@ -6397,7 +6397,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Call for a wingdrake to transport you to the nearest camp. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Call for a wingdrake to transport you to the nearest camp. (Supply Item)"
   },
   {
     "Name": "EZ Tranq Bomb",
@@ -6429,7 +6429,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A hand grenade used to capture monsters ensnared in traps. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "A hand grenade used to capture monsters ensnared in traps. (Supply Item)"
   },
   {
     "Name": "Ballista Ammo",
@@ -6461,7 +6461,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Ammunition for the large Ballista. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Ammunition for the large Ballista. (Supply Item)"
   },
   {
     "Name": "One-shot Binder",
@@ -6493,7 +6493,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Ballista ammo that restrains targets. Disposable ammo, no cooldown. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Ballista ammo that restrains targets. Disposable ammo, no cooldown. (Supply Item)"
   },
   {
     "Name": "Cannon Ammo",
@@ -6525,7 +6525,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Steel ammo made for hunting giant dragons. A real pain to lug around. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Steel ammo made for hunting giant dragons. A real pain to lug around. (Supply Item)"
   },
   {
     "Name": "Iron Ore",
@@ -17533,7 +17533,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A jewel that conceals faint traces of power within it. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "A jewel that conceals faint traces of power within it. (Appraisal Item)"
   },
   {
     "Name": "Glowing Feystone",
@@ -17565,7 +17565,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A jewel that conceals an unknown power within it. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "A jewel that conceals an unknown power within it. (Appraisal Item)"
   },
   {
     "Name": "Worn Feystone",
@@ -17597,7 +17597,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A jewel that conceals considerable power within it. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "A jewel that conceals considerable power within it. (Appraisal Item)"
   },
   {
     "Name": "Warped Feystone",
@@ -17629,7 +17629,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A jewel that conceals a mystical power within it. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "A jewel that conceals a mystical power within it. (Appraisal Item)"
   },
   {
     "Name": "Sullied Streamstone",
@@ -17661,7 +17661,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Though dirty, this stone pulses with undeniable power. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "Though dirty, this stone pulses with undeniable power. (Appraisal Item)"
   },
   {
     "Name": "Shining Streamstone",
@@ -17693,7 +17693,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A stone that shines with the brilliance of endless possibility. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "A stone that shines with the brilliance of endless possibility. (Appraisal Item)"
   },
   {
     "Name": "Streamstone Shard",
@@ -18941,7 +18941,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An egg of glittering steel. Valuable and rare, but of no use to a hunter. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)"
   },
   {
     "Name": "Silver Egg",
@@ -18973,7 +18973,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An egg of glittering silver. Valuable and rare, but of no use to a hunter. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)"
   },
   {
     "Name": "Golden Egg",
@@ -19005,7 +19005,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An egg of glittering gold. Super valuable and rare, but of no use to a hunter. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)"
   },
   {
     "Name": "Chipped Scale",
@@ -19037,7 +19037,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)"
   },
   {
     "Name": "Large Scale",
@@ -19069,7 +19069,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Acquired by using the Bandit Mantle. Consistently popular among collectors. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item)"
   },
   {
     "Name": "Beautiful Scale",
@@ -19101,7 +19101,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Acquired by using the Bandit Mantle. In perpetual demand among collectors. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item)"
   },
   {
     "Name": "Lustrous Scale",
@@ -19133,7 +19133,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Acquired by using the Bandit Mantle. A source of pride for any collector. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item)"
   },
   {
     "Name": "Glimmering Scale",
@@ -19165,7 +19165,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Acquired by using the Bandit Mantle. A must-have for any collector. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item)"
   },
   {
     "Name": "Bhernastone",
@@ -19197,7 +19197,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An Old World import. Beautiful, but not suitable for crafting. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
   },
   {
     "Name": "Dundormarin",
@@ -19229,7 +19229,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An Old World import. Beautiful, but not suitable for crafting. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
   },
   {
     "Name": "Loc Lac Ore",
@@ -19261,7 +19261,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An Old World import. Beautiful, but not suitable for crafting. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
   },
   {
     "Name": "Val Habar Quartz",
@@ -19293,7 +19293,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An Old World import. Beautiful, but not suitable for crafting. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
   },
   {
     "Name": "Minegardenite",
@@ -19325,7 +19325,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An Old World import. Beautiful, but not suitable for crafting. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
   },
   {
     "Name": "Golden Scale",
@@ -19357,7 +19357,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "The scales of a Goldenfish. They shimmer like only pure gold can. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item)"
   },
   {
     "Name": "Golden Scale+",
@@ -19389,7 +19389,7 @@
     "Is Shiny": true,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "The scales of a Great Goldenfish. Trades at the same price as actual gold. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item)"
   },
   {
     "Name": "Platinum Scale",
@@ -19421,7 +19421,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "The scales of a Platinumfish. They give off a beautiful gleam. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item)"
   },
   {
     "Name": "Platinum Scale+",
@@ -19453,7 +19453,7 @@
     "Is Shiny": true,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "The scales of a Great Platinumfish. Their shine is nigh on blinding. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item)"
   },
   {
     "Name": "Gilded Scale",
@@ -19485,7 +19485,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "The scales of a Goldenfry. Used by artisans in their crafts. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item)"
   },
   {
     "Name": "Gilded Scale+",
@@ -19517,7 +19517,7 @@
     "Is Shiny": true,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "The scales of a Great Goldenfry. Used in the very finest of crafts. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item)"
   },
   {
     "Name": "White Liver",
@@ -19549,7 +19549,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A white-colored liver, popular for its juicy texture. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A white-colored liver, popular for its juicy texture. (Account Item)"
   },
   {
     "Name": "Wyvern Tear",
@@ -19581,7 +19581,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Bitter tears wept by wyverns on certain occasions. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Bitter tears wept by wyverns on certain occasions. (Account Item)"
   },
   {
     "Name": "Large Wyvern Tear",
@@ -19613,7 +19613,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Large, bitter tears wept by wyverns on certain occasions. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Large, bitter tears wept by wyverns on certain occasions. (Account Item)"
   },
   {
     "Name": "Dragon Treasure",
@@ -19645,7 +19645,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A shiny rock that elder dragons like to collect. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A shiny rock that elder dragons like to collect. (Account Item)"
   },
   {
     "Name": "Unavailable",
@@ -19709,7 +19709,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A flower from the Ancient Forest. It's been bathed in the warmth of the sun. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A flower from the Ancient Forest. It's been bathed in the warmth of the sun. (Account Item)"
   },
   {
     "Name": "Shinebloom",
@@ -19741,7 +19741,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A rare flower from the Ancient Forest. Has a scent of sunlight on its petals. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A rare flower from the Ancient Forest. Has a scent of sunlight on its petals. (Account Item)"
   },
   {
     "Name": "Goldbloom",
@@ -19773,7 +19773,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A precious flower from the Ancient Forest. It glitters brighter than gold. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A precious flower from the Ancient Forest. It glitters brighter than gold. (Account Item)"
   },
   {
     "Name": "Gourmet Shroomcap",
@@ -19805,7 +19805,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A mushroom from the Ancient Forest. Known for its unique tenderness. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A mushroom from the Ancient Forest. Known for its unique tenderness. (Account Item)"
   },
   {
     "Name": "Exquisite Shroomcap",
@@ -19837,7 +19837,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A rare mushroom from the Ancient Forest. Highly sought after by elite chefs. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A rare mushroom from the Ancient Forest. Highly sought after by elite chefs. (Account Item)"
   },
   {
     "Name": "Spirit Shroomcap",
@@ -19869,7 +19869,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A precious mushroom from the Ancient Forest. Possesses a fantastical glow. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A precious mushroom from the Ancient Forest. Possesses a fantastical glow. (Account Item)"
   },
   {
     "Name": "Bauble Cactus",
@@ -19901,7 +19901,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A cactus from the Wildspire Waste. Small but fleshy. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A cactus from the Wildspire Waste. Small but fleshy. (Account Item)"
   },
   {
     "Name": "Jewel Cactus",
@@ -19933,7 +19933,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A rare cactus from the Wildspire Waste. Big and meaty. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A rare cactus from the Wildspire Waste. Big and meaty. (Account Item)"
   },
   {
     "Name": "Kingly Cactus",
@@ -19965,7 +19965,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A precious cactus from the Wildspire Waste. The undeniable prickle king. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A precious cactus from the Wildspire Waste. The undeniable prickle king. (Account Item)"
   },
   {
     "Name": "Hardfruit",
@@ -19997,7 +19997,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Fruit from the Wildspire Waste. Hard on the outside, juicy on the inside. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Fruit from the Wildspire Waste. Hard on the outside, juicy on the inside. (Account Item)"
   },
   {
     "Name": "Rockfruit",
@@ -20029,7 +20029,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare fruit from the Wildspire Waste. Tasty, but brutal on the chompers. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare fruit from the Wildspire Waste. Tasty, but brutal on the chompers. (Account Item)"
   },
   {
     "Name": "Wildfruit",
@@ -20061,7 +20061,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Precious fruit from the Wildspire Waste. Not for the faint of heart. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Precious fruit from the Wildspire Waste. Not for the faint of heart. (Account Item)"
   },
   {
     "Name": "Super Abalone",
@@ -20093,7 +20093,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Coral Highlands seafood. A rare delicacy. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Coral Highlands seafood. A rare delicacy. (Account Item)"
   },
   {
     "Name": "Choice Abalone",
@@ -20125,7 +20125,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare Coral Highlands seafood. Big in size, big in flavor. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare Coral Highlands seafood. Big in size, big in flavor. (Account Item)"
   },
   {
     "Name": "Precious Abalone",
@@ -20157,7 +20157,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Precious Coral Highlands seafood. A delicacy among delicacies. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Precious Coral Highlands seafood. A delicacy among delicacies. (Account Item)"
   },
   {
     "Name": "Light Pearl",
@@ -20189,7 +20189,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A jewel from the Coral Highlands. Gleams brilliantly. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A jewel from the Coral Highlands. Gleams brilliantly. (Account Item)"
   },
   {
     "Name": "Deep Pearl",
@@ -20221,7 +20221,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A rare jewel from the Coral Highlands. Glows with a profound luster. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A rare jewel from the Coral Highlands. Glows with a profound luster. (Account Item)"
   },
   {
     "Name": "Innocent Pearl",
@@ -20253,7 +20253,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A precious jewel from the Coral Highlands. Glistens with purity. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A precious jewel from the Coral Highlands. Glistens with purity. (Account Item)"
   },
   {
     "Name": "Forgotten Fossil",
@@ -20285,7 +20285,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A fossil from the Rotten Vale. It bears tracks from antiquity. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A fossil from the Rotten Vale. It bears tracks from antiquity. (Account Item)"
   },
   {
     "Name": "Legendary Fossil",
@@ -20317,7 +20317,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A rare fossil from the Rotten Vale. The life it holds is long extinct. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A rare fossil from the Rotten Vale. The life it holds is long extinct. (Account Item)"
   },
   {
     "Name": "Mystical Fossil",
@@ -20349,7 +20349,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A precious fossil from the Rotten Vale. The key to an ancient mystery. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A precious fossil from the Rotten Vale. The key to an ancient mystery. (Account Item)"
   },
   {
     "Name": "Underground Fruit",
@@ -20381,7 +20381,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Fruit from the Rotten Vale. It grows to maturity without sun. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Fruit from the Rotten Vale. It grows to maturity without sun. (Account Item)"
   },
   {
     "Name": "Tainted Fruit",
@@ -20413,7 +20413,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare fruit from the Rotten Vale. It thrives under arduous conditions. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare fruit from the Rotten Vale. It thrives under arduous conditions. (Account Item)"
   },
   {
     "Name": "Elysian Fruit",
@@ -20445,7 +20445,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Precious fruit from the Rotten Vale. Its aroma is not of this world. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Precious fruit from the Rotten Vale. Its aroma is not of this world. (Account Item)"
   },
   {
     "Name": "Gaia Amber",
@@ -20477,7 +20477,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Amber from the Elder's Recess. A golden tear plucked from the earth. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Amber from the Elder's Recess. A golden tear plucked from the earth. (Account Item)"
   },
   {
     "Name": "Dragonvein Amber",
@@ -20509,7 +20509,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare amber from the Elder's Recess. It pulses with nature's raw energy. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare amber from the Elder's Recess. It pulses with nature's raw energy. (Account Item)"
   },
   {
     "Name": "Ancient Amber",
@@ -20541,7 +20541,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Precious amber from the Elder's Recess. A piece of antiquity. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Precious amber from the Elder's Recess. A piece of antiquity. (Account Item)"
   },
   {
     "Name": "Blue Beryl",
@@ -20573,7 +20573,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A gem from the Elder's Recess. It shines with the color of the waves. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A gem from the Elder's Recess. It shines with the color of the waves. (Account Item)"
   },
   {
     "Name": "True Beryl",
@@ -20605,7 +20605,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A rare gem from the Elder's Recess. It glints with the clarity of truth. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A rare gem from the Elder's Recess. It glints with the clarity of truth. (Account Item)"
   },
   {
     "Name": "Abyssal Beryl",
@@ -20637,7 +20637,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A precious gem from the Elder's Recess. Has a deep, hypnotic hue. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A precious gem from the Elder's Recess. Has a deep, hypnotic hue. (Account Item)"
   },
   {
     "Name": "Sunkissed Grass",
@@ -20669,7 +20669,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A special plant from the Ancient Forest. Known to cure all types of diseases. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A special plant from the Ancient Forest. Known to cure all types of diseases. (Account Item)"
   },
   {
     "Name": "Moonlit Mushroom",
@@ -20701,7 +20701,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A special plant from the Ancient Forest. Radiates like the full moon. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A special plant from the Ancient Forest. Radiates like the full moon. (Account Item)"
   },
   {
     "Name": "Dragonbloom",
@@ -20733,7 +20733,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A special flower from the Wildspire Waste. Hard as dragon scale. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A special flower from the Wildspire Waste. Hard as dragon scale. (Account Item)"
   },
   {
     "Name": "Divineapple",
@@ -20765,7 +20765,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Special fruit from the Wildspire Waste. Quite difficult to cultivate. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Special fruit from the Wildspire Waste. Quite difficult to cultivate. (Account Item)"
   },
   {
     "Name": "Violet Abalone",
@@ -20797,7 +20797,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Special seafood from the Coral Highlands. Unique in both taste and aroma. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Special seafood from the Coral Highlands. Unique in both taste and aroma. (Account Item)"
   },
   {
     "Name": "Platinum Pearl",
@@ -20829,7 +20829,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A special jewel from the Coral Highlands. Bears a metallic sheen. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A special jewel from the Coral Highlands. Bears a metallic sheen. (Account Item)"
   },
   {
     "Name": "Wicked Fossil",
@@ -20861,7 +20861,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A special fossil from the Rotten Vale. Unspeakably ominous. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A special fossil from the Rotten Vale. Unspeakably ominous. (Account Item)"
   },
   {
     "Name": "Heavenberry",
@@ -20893,7 +20893,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Special fruit from the Rotten Vale. One bite'll send you to the pearly gates. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Special fruit from the Rotten Vale. One bite'll send you to the pearly gates. (Account Item)"
   },
   {
     "Name": "Twilight Stone",
@@ -20925,7 +20925,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A special gem from the Elder's Recess. The color of a sinking sun. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A special gem from the Elder's Recess. The color of a sinking sun. (Account Item)"
   },
   {
     "Name": "Noahstone",
@@ -20957,7 +20957,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A special gem from the Elder's Recess. Its brilliance engulfs all. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A special gem from the Elder's Recess. Its brilliance engulfs all. (Account Item)"
   },
   {
     "Name": "Wyvern Egg",
@@ -20989,7 +20989,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": true,
     "Not Storable as an Item": true,
-    "Description": "A flying wyvern's egg. Deliver it back to camp...if you can. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A flying wyvern's egg. Deliver it back to camp...if you can. (Account Item)"
   },
   {
     "Name": "Herbivore Egg",
@@ -21021,7 +21021,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": true,
     "Not Storable as an Item": true,
-    "Description": "An herbivore egg. Deliver it back to camp...if you can. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "An herbivore egg. Deliver it back to camp...if you can. (Account Item)"
   },
   {
     "Name": "Lump of Meat",
@@ -21053,7 +21053,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": true,
     "Not Storable as an Item": true,
-    "Description": "A lump of meat left by an Odogaron. Its distinct odor lures carnivores. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A lump of meat left by an Odogaron. Its distinct odor lures carnivores. (Account Item)"
   },
   {
     "Name": "Shepherd Hare",
@@ -27901,7 +27901,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An emerald Helmcrab carapace, every bit as lovely as its gem namesake. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "An emerald Helmcrab carapace, every bit as lovely as its gem namesake. (Trade-in Item)"
   },
   {
     "Name": "Gajalaka Sketch",
@@ -28573,7 +28573,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A fragment of pure gold. It fetches a high price despite its size. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "A fragment of pure gold. It fetches a high price despite its size. (Trade-in Item)"
   },
   {
     "Name": "Golden Chunk",
@@ -28605,7 +28605,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A precious lump of gold. Its brilliance can bewitch the purest of hearts. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "A precious lump of gold. Its brilliance can bewitch the purest of hearts. (Trade-in Item)"
   },
   {
     "Name": "Lunastra Scale+",
@@ -29949,7 +29949,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A weapon carved from Kulve Taroth. Must be repaired before it can be used. <STYL MOJI_YELLOW_DEFAULT>(Appraised after investigation)</STYL>"
+    "Description": "A weapon carved from Kulve Taroth. Must be repaired before it can be used. (Appraised after investigation)"
   },
   {
     "Name": "Melded Weapon",
@@ -29981,7 +29981,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A weapon carved from Kulve Taroth. Some parts have been infused with gold. <STYL MOJI_YELLOW_DEFAULT>(Appraised after investigation)</STYL>"
+    "Description": "A weapon carved from Kulve Taroth. Some parts have been infused with gold. (Appraised after investigation)"
   },
   {
     "Name": "Sublimated Weapon",
@@ -30013,7 +30013,7 @@
     "Is Shiny": true,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A weapon carved from Kulve Taroth Strengthened by being infused with gold. <STYL MOJI_YELLOW_DEFAULT>(Appraised after investigation)</STYL>"
+    "Description": "A weapon carved from Kulve Taroth Strengthened by being infused with gold. (Appraised after investigation)"
   },
   {
     "Name": "Bushi Ticket",
@@ -30461,7 +30461,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A fragment that a Copper Calappa harvested from a Kulve Taroth track. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "A fragment that a Copper Calappa harvested from a Kulve Taroth track. (Trade-in Item)"
   },
   {
     "Name": "Gold Nugget Fragment",
@@ -30493,7 +30493,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A fragment that can only be harvested from a very heavy Taroth track. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "A fragment that can only be harvested from a very heavy Taroth track. (Trade-in Item)"
   },
   {
     "Name": "Unavailable",
@@ -30909,7 +30909,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A mysterious stone filled with an odd, transparent radiance. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A mysterious stone filled with an odd, transparent radiance. (Account Item)"
   },
   {
     "Name": "Flowering Cactuar Cutting",
@@ -31261,7 +31261,7 @@
     "Is Shiny": true,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A weapon carved from Kulve Taroth. Born from the fusion of rare metals. <STYL MOJI_YELLOW_DEFAULT>(Appraised after investigation)</STYL>"
+    "Description": "A weapon carved from Kulve Taroth. Born from the fusion of rare metals. (Appraised after investigation)"
   },
   {
     "Name": "Kulve Taroth Emperor Nugget",
@@ -32285,7 +32285,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "An unusual bone fragment found in the geological strata of the Guiding Lands. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "An unusual bone fragment found in the geological strata of the Guiding Lands. (Account Item)"
   },
   {
     "Name": "Crystalized Monster Bone",
@@ -32317,7 +32317,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "An unusual monster bone from the Guiding Lands. Has a different glow in each region. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "An unusual monster bone from the Guiding Lands. Has a different glow in each region. (Account Item)"
   },
   {
     "Name": "Crystalized Elder Dragon Bone",
@@ -32349,7 +32349,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "An elder dragon bone found in the Guiding Lands. Older than human comprehension. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "An elder dragon bone found in the Guiding Lands. Older than human comprehension. (Account Item)"
   },
   {
     "Name": "Unavailable",
@@ -45085,7 +45085,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A jewel that conceals an ancient power within it. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "A jewel that conceals an ancient power within it. (Appraisal Item)"
   },
   {
     "Name": "Carved Feystone",
@@ -45117,7 +45117,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A jewel that conceals immense power within it. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "A jewel that conceals immense power within it. (Appraisal Item)"
   },
   {
     "Name": "Sealed Feystone",
@@ -45149,7 +45149,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A jewel that conceals overwhelming power within it. <STYL MOJI_YELLOW_DEFAULT>(Appraisal Item)</STYL>"
+    "Description": "A jewel that conceals overwhelming power within it. (Appraisal Item)"
   },
   {
     "Name": "Decayed Scale",
@@ -45181,7 +45181,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A dragon scale ravaged by time. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A dragon scale ravaged by time. (Account Item)"
   },
   {
     "Name": "Luminous Scale",
@@ -45213,7 +45213,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A dragon scale that glows bright, despite the years it has weathered. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A dragon scale that glows bright, despite the years it has weathered. (Account Item)"
   },
   {
     "Name": "Old Dragon Treasure",
@@ -45245,7 +45245,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Stones hoarded by elder dragons. The older they are, the brighter they glow. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Stones hoarded by elder dragons. The older they are, the brighter they glow. (Account Item)"
   },
   {
     "Name": "Indestructible Ebonshell",
@@ -46173,7 +46173,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Acquired by using the Bandit Mantle. Its size consistently amazes collectors. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "Acquired by using the Bandit Mantle. Its size consistently amazes collectors. (Trade-in Item)"
   },
   {
     "Name": "Magnificent Scale",
@@ -46205,7 +46205,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Acquired by using the Bandit Mantle. Makes any collector's mouth water. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "Acquired by using the Bandit Mantle. Makes any collector's mouth water. (Trade-in Item)"
   },
   {
     "Name": "Boaboa Ticket",
@@ -46269,7 +46269,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A vegetable from the Hoarfrost Reach. A precious source of nutrients for tundra wildlife. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A vegetable from the Hoarfrost Reach. A precious source of nutrients for tundra wildlife. (Account Item)"
   },
   {
     "Name": "Exquisite Butterbur",
@@ -46301,7 +46301,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare vegetable from the Hoarfrost Reach. Contains enough nutrients to warm the body to its core. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare vegetable from the Hoarfrost Reach. Contains enough nutrients to warm the body to its core. (Account Item)"
   },
   {
     "Name": "Millennium Butterbur",
@@ -46333,7 +46333,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare vegetable from the Hoarfrost Reach. Miraculously bloomed after centuries of patient waiting. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare vegetable from the Hoarfrost Reach. Miraculously bloomed after centuries of patient waiting. (Account Item)"
   },
   {
     "Name": "Icebloom",
@@ -46365,7 +46365,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A flower from the Hoarfrost Reach. Its petals are translucent as ice. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A flower from the Hoarfrost Reach. Its petals are translucent as ice. (Account Item)"
   },
   {
     "Name": "Moonlight Icebloom",
@@ -46397,7 +46397,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare flower from the Hoarfrost Reach. It shimmers in the snowfields by moonlight. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare flower from the Hoarfrost Reach. It shimmers in the snowfields by moonlight. (Account Item)"
   },
   {
     "Name": "Snowpeak Icebloom",
@@ -46429,7 +46429,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare flower from the Hoarfrost Reach. Said to bloom after the fiercest of blizzards. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare flower from the Hoarfrost Reach. Said to bloom after the fiercest of blizzards. (Account Item)"
   },
   {
     "Name": "Snow White",
@@ -46461,7 +46461,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare vegetable from the Hoarfrost Reach. This shoot was protected by the pure white snow. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare vegetable from the Hoarfrost Reach. This shoot was protected by the pure white snow. (Account Item)"
   },
   {
     "Name": "Petalcryst",
@@ -46493,7 +46493,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Rare flower from the Hoarfrost Reach. Beautiful as any jewel, evanescent as a flake of snow. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Rare flower from the Hoarfrost Reach. Beautiful as any jewel, evanescent as a flake of snow. (Account Item)"
   },
   {
     "Name": "EZ Dust of Life",
@@ -46525,7 +46525,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Releases a cloud around you that restores a large amount of health. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Releases a cloud around you that restores a large amount of health. (Supply Item)"
   },
   {
     "Name": "Pearlspring Macaque",
@@ -56989,7 +56989,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Fuel for the Dragonrazer. Firing a single shot requires two cells. <STYL MOJI_YELLOW_DEFAULT>(Supply Item)</STYL>"
+    "Description": "Fuel for the Dragonrazer. Firing a single shot requires two cells. (Supply Item)"
   },
   {
     "Name": "Tailraider Signal",
@@ -57405,7 +57405,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": true,
     "Not Storable as an Item": true,
-    "Description": "A stone infused with a hot spring's healing powers. Affects an area. Turn in at camp. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "A stone infused with a hot spring's healing powers. Affects an area. Turn in at camp. (Account Item)"
   },
   {
     "Name": "Decayed Crystal",
@@ -82173,7 +82173,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A green herb native to the Arklay Mountains. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "A green herb native to the Arklay Mountains. Raccoon City Collaboration"
   },
   {
     "Name": "Red Herb",
@@ -82205,7 +82205,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A red herb native to the Arklay Mountains. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "A red herb native to the Arklay Mountains. Raccoon City Collaboration"
   },
   {
     "Name": "Blue Herb",
@@ -82237,7 +82237,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A blue herb native to the Arklay Mountains. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "A blue herb native to the Arklay Mountains. Raccoon City Collaboration"
   },
   {
     "Name": "First Aid Sprays",
@@ -82269,7 +82269,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Healing sprays that restore health. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "Healing sprays that restore health. Raccoon City Collaboration"
   },
   {
     "Name": "Mr. Raccoon",
@@ -82301,7 +82301,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A popular Mr. Raccoon doll. Looks suitable for target practice. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "A popular Mr. Raccoon doll. Looks suitable for target practice. Raccoon City Collaboration"
   },
   {
     "Name": "Creepy Rugs (1F)",
@@ -82333,7 +82333,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "The stains on these rugs will make any visitor's spine tingle. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "The stains on these rugs will make any visitor's spine tingle. Raccoon City Collaboration"
   },
   {
     "Name": "Creepy Rugs (2F)",
@@ -82365,7 +82365,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "The stains on these rugs will make any visitor's spine tingle. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "The stains on these rugs will make any visitor's spine tingle. Raccoon City Collaboration"
   },
   {
     "Name": "S.T.A.R.S. Plaque Set 1",
@@ -82397,7 +82397,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A collection of S.T.A.R.S. plaques and awards from R.P.D. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "A collection of S.T.A.R.S. plaques and awards from R.P.D. Raccoon City Collaboration"
   },
   {
     "Name": "S.T.A.R.S. Plaque Set 2",
@@ -82429,7 +82429,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A collection of S.T.A.R.S. plaques and awards from R.P.D. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "A collection of S.T.A.R.S. plaques and awards from R.P.D. Raccoon City Collaboration"
   },
   {
     "Name": "Typewriter",
@@ -82461,7 +82461,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A typewriter built for chronicling both tales of fear and of relief. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "A typewriter built for chronicling both tales of fear and of relief. Raccoon City Collaboration"
   },
   {
     "Name": "Item Box",
@@ -82493,7 +82493,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A handy box that stores your surplus items. <STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>"
+    "Description": "A handy box that stores your surplus items. Raccoon City Collaboration"
   },
   {
     "Name": "Fun Fright Platter",
@@ -85661,7 +85661,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Throw these and have snowball fights with friends! If you hit someone multiple times...!? <STYL MOJI_YELLOW_DEFAULT>(Quest Only)</STYL>"
+    "Description": "Throw these and have snowball fights with friends! If you hit someone multiple times...!? (Quest Only)"
   },
   {
     "Name": "Snowman",
@@ -85853,7 +85853,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A green herb native to the Arklay Mountains. Restores health and cures zombification. <STYL MOJI_YELLOW_DEFAULT>(Quest Only)</STYL>"
+    "Description": "A green herb native to the Arklay Mountains. Restores health and cures zombification. (Quest Only)"
   },
   {
     "Name": "Red Herb",
@@ -85885,7 +85885,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "A red herb native to the Arklay Mountains. It can't be used as is. <STYL MOJI_YELLOW_DEFAULT>(Quest Only)</STYL>"
+    "Description": "A red herb native to the Arklay Mountains. It can't be used as is. (Quest Only)"
   },
   {
     "Name": "Mixed Herb (G+R)",
@@ -85917,7 +85917,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "This blend of 2 different herbs will fully restore your health and cure zombification. <STYL MOJI_YELLOW_DEFAULT>(Quest Only)</STYL>"
+    "Description": "This blend of 2 different herbs will fully restore your health and cure zombification. (Quest Only)"
   },
   {
     "Name": "Steel Melding Ticket",
@@ -86205,7 +86205,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "A fragment carved from Safi'jiiva. Has an otherworldly feel, as if power is being born within. <STYL MOJI_YELLOW_DEFAULT>(Appraised after assignment)</STYL>"
+    "Description": "A fragment carved from Safi'jiiva. Has an otherworldly feel, as if power is being born within. (Appraised after assignment)"
   },
   {
     "Name": "Unavailable",
@@ -87453,7 +87453,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "Large, bitter tears wept by beasts on certain occasions. <STYL MOJI_YELLOW_DEFAULT>(Account Item)</STYL>"
+    "Description": "Large, bitter tears wept by beasts on certain occasions. (Account Item)"
   },
   {
     "Name": "Magnificent Pelt",
@@ -87485,7 +87485,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Acquired by using the Bandit Mantle. Makes any collector's mouth water. <STYL MOJI_YELLOW_DEFAULT>(Trade-in Item)</STYL>"
+    "Description": "Acquired by using the Bandit Mantle. Makes any collector's mouth water. (Trade-in Item)"
   },
   {
     "Name": "VIP Joyful Ticket",
@@ -87677,7 +87677,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Throw this at a large monster to make it leave the Guiding Lands. <STYL MOJI_YELLOW_DEFAULT>Guiding Lands leader only.</STYL>"
+    "Description": "Throw this at a large monster to make it leave the Guiding Lands. Guiding Lands leader only."
   },
   {
     "Name": "Unavailable",

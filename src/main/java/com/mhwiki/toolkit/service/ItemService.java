@@ -3,7 +3,7 @@ package com.mhwiki.toolkit.service;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.mhwiki.toolkit.service.domain.Item;
+import com.mhwiki.toolkit.domain.Item;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.io.ClassPathResource;
@@ -31,6 +31,7 @@ public class ItemService {
         String filePath = "/input/" + filename;
 
         try {
+            log.info("Reading file : {}", filePath);
             InputStream inputStream = new ClassPathResource(filePath).getInputStream();
             return objectMapper.readValue(inputStream, new TypeReference<>() {});
         } catch (IOException e) {
