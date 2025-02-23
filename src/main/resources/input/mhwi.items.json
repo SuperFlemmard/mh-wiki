@@ -4413,7 +4413,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Non-specialized ammo. More powerful than Normal Ammo 1. Capacity: 99"
+    "Description": "Non-specialized ammo. More powerful than Normal Ammo 1."
   },
   {
     "Name": "Normal Ammo 3",
@@ -4445,7 +4445,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo made with high-quality gunpowder. Each shot packs considerable punch. Capacity: 99"
+    "Description": "Ammo made with high-quality gunpowder. Each shot packs considerable punch."
   },
   {
     "Name": "Pierce Ammo 1",
@@ -4477,7 +4477,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Armor-piercing ammo that deals multiple hits to some monsters. Capacity: 60"
+    "Description": "Armor-piercing ammo that deals multiple hits to some monsters."
   },
   {
     "Name": "Pierce Ammo 2",
@@ -4509,7 +4509,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "High-grade armor-piercing ammo. Deals more hits than Pierce Ammo 1. Capacity: 60"
+    "Description": "High-grade armor-piercing ammo. Deals more hits than Pierce Ammo 1."
   },
   {
     "Name": "Pierce Ammo 3",
@@ -4541,7 +4541,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Max-grade armor-piercing ammo. Deals numerous hits. Capacity: 60"
+    "Description": "Max-grade armor-piercing ammo. Deals numerous hits."
   },
   {
     "Name": "Spread Ammo 1",
@@ -4573,7 +4573,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that covers a wide area. Deals multiple hits at close range. Capacity: 80"
+    "Description": "Ammo that covers a wide area. Deals multiple hits at close range."
   },
   {
     "Name": "Spread Ammo 2",
@@ -4605,7 +4605,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "High-grade ammo that covers a wide area. Deals more hits than Spread Ammo 1. Capacity: 70"
+    "Description": "High-grade ammo that covers a wide area. Deals more hits than Spread Ammo 1."
   },
   {
     "Name": "Spread Ammo 3",
@@ -4637,7 +4637,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Max-grade ammo that covers a wide area and deals numerous hits. Capacity: 60"
+    "Description": "Max-grade ammo that covers a wide area and deals numerous hits."
   },
   {
     "Name": "Sticky Ammo 1",
@@ -4669,7 +4669,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Powerful ammo that lodges in a target and explodes. Also stuns. Capacity: 9"
+    "Description": "Powerful ammo that lodges in a target and explodes. Also stuns."
   },
   {
     "Name": "Sticky Ammo 2",
@@ -4701,7 +4701,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Very powerful ammo that lodges in a target and explodes. Also stuns. Capacity: 9"
+    "Description": "Very powerful ammo that lodges in a target and explodes. Also stuns."
   },
   {
     "Name": "Sticky Ammo 3",
@@ -4733,7 +4733,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Extremely powerful ammo that lodges in a target and explodes. Also stuns. Capacity: 9"
+    "Description": "Extremely powerful ammo that lodges in a target and explodes. Also stuns."
   },
   {
     "Name": "Cluster Bomb 1",
@@ -4765,7 +4765,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that fragments into three shells upon impact. Beware of friendly fire! Capacity: 3"
+    "Description": "Ammo that fragments into three shells upon impact. Beware of friendly fire!"
   },
   {
     "Name": "Cluster Bomb 2",
@@ -4797,7 +4797,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that fragments into four shells upon impact. Beware of friendly fire! Capacity: 3"
+    "Description": "Ammo that fragments into four shells upon impact. Beware of friendly fire!"
   },
   {
     "Name": "Cluster Bomb 3",
@@ -4829,7 +4829,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that fragments into five shells upon impact. Beware of friendly fire! Capacity: 3"
+    "Description": "Ammo that fragments into five shells upon impact. Beware of friendly fire!"
   },
   {
     "Name": "Flaming Ammo",
@@ -4861,7 +4861,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that packs a punch against monsters susceptible to fire. Capacity: 60"
+    "Description": "Ammo that packs a punch against monsters susceptible to fire."
   },
   {
     "Name": "Water Ammo",
@@ -4893,7 +4893,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that packs a punch against monsters susceptible to water. Capacity: 60"
+    "Description": "Ammo that packs a punch against monsters susceptible to water."
   },
   {
     "Name": "Thunder Ammo",
@@ -4925,7 +4925,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that packs a punch against monsters susceptible to thunder. Capacity: 60"
+    "Description": "Ammo that packs a punch against monsters susceptible to thunder."
   },
   {
     "Name": "Freeze Ammo",
@@ -4957,7 +4957,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that packs a punch against monsters susceptible to ice. Capacity: 60"
+    "Description": "Ammo that packs a punch against monsters susceptible to ice."
   },
   {
     "Name": "Dragon Ammo",
@@ -4989,7 +4989,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Elderseal-imbued ammo that packs a punch against monsters weak to dragon. Capacity: 3"
+    "Description": "Elderseal-imbued ammo that packs a punch against monsters weak to dragon."
   },
   {
     "Name": "Poison Ammo 1",
@@ -5021,7 +5021,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Poisons target, but may require several shots. Capacity: 12"
+    "Description": "Poisons target, but may require several shots."
   },
   {
     "Name": "Poison Ammo 2",
@@ -5053,7 +5053,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Enhanced ammo that inflicts poison. Some targets require multiple shots. Capacity: 12"
+    "Description": "Enhanced ammo that inflicts poison. Some targets require multiple shots."
   },
   {
     "Name": "Paralysis Ammo 1",
@@ -5085,7 +5085,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that causes paralysis. Some targets require multiple shots. Capacity: 12"
+    "Description": "Ammo that causes paralysis. Some targets require multiple shots."
   },
   {
     "Name": "Paralysis Ammo 2",
@@ -5117,7 +5117,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Enhanced ammo that causes paralysis. Some targets require multiple shots. Capacity: 8"
+    "Description": "Enhanced ammo that causes paralysis. Some targets require multiple shots."
   },
   {
     "Name": "Sleep Ammo 1",
@@ -5149,7 +5149,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that induces sleep. Some targets require multiple shots. Capacity: 12"
+    "Description": "Ammo that induces sleep. Some targets require multiple shots."
   },
   {
     "Name": "Sleep Ammo 2",
@@ -5181,7 +5181,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Enhanced ammo that induces sleep. Some targets require multiple shots. Capacity: 8"
+    "Description": "Enhanced ammo that induces sleep. Some targets require multiple shots."
   },
   {
     "Name": "Exhaust Ammo 1",
@@ -5213,7 +5213,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that drains a monster's stamina. Capacity: 12"
+    "Description": "Ammo that drains a monster's stamina."
   },
   {
     "Name": "Exhaust Ammo 2",
@@ -5245,7 +5245,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Enhanced ammo that drains a monster's stamina. Capacity: 8"
+    "Description": "Enhanced ammo that drains a monster's stamina."
   },
   {
     "Name": "Recover Ammo 1",
@@ -5277,7 +5277,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that restores a small amount of health to an ally upon impact. Capacity: 12"
+    "Description": "Ammo that restores a small amount of health to an ally upon impact."
   },
   {
     "Name": "Recover Ammo 2",
@@ -5309,7 +5309,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that restores a moderate amount of health to an ally upon impact. Capacity: 12"
+    "Description": "Ammo that restores a moderate amount of health to an ally upon impact."
   },
   {
     "Name": "Wyvern Ammo",
@@ -5341,7 +5341,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo created through years of research into Wyvern's Fire. Capacity: 5"
+    "Description": "Ammo created through years of research into Wyvern's Fire."
   },
   {
     "Name": "Slicing Ammo",
@@ -5373,7 +5373,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that ejects sharp blades on impact, which can sever tails. Capacity: 30"
+    "Description": "Ammo that ejects sharp blades on impact, which can sever tails."
   },
   {
     "Name": "Tranq Ammo",
@@ -5405,7 +5405,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Bowgun ammo used to capture monsters ensnared in traps. Capacity: 8"
+    "Description": "Bowgun ammo used to capture monsters ensnared in traps."
   },
   {
     "Name": "Demon Ammo",
@@ -5437,7 +5437,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that fills the target with savage amounts of strength. Capacity: 5"
+    "Description": "Ammo that fills the target with savage amounts of strength."
   },
   {
     "Name": "Armor Ammo",
@@ -5469,7 +5469,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "Ammo that makes the target's skin as hard as stone. Capacity: 5"
+    "Description": "Ammo that makes the target's skin as hard as stone."
   },
   {
     "Name": "(None)",
@@ -5597,7 +5597,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An arrow coating that increases the attack power of arrows. Capacity: 50"
+    "Description": "An arrow coating that increases the attack power of arrows."
   },
   {
     "Name": "Poison Coating",
@@ -5629,7 +5629,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An arrow coating that applies poison effects to arrows. Capacity: 20"
+    "Description": "An arrow coating that applies poison effects to arrows."
   },
   {
     "Name": "Paralysis Coating",
@@ -5661,7 +5661,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An arrow coating that applies paralysis effects to arrows. Capacity: 20"
+    "Description": "An arrow coating that applies paralysis effects to arrows."
   },
   {
     "Name": "Sleep Coating",
@@ -5693,7 +5693,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An arrow coating that induces sleep. Capacity: 20"
+    "Description": "An arrow coating that induces sleep."
   },
   {
     "Name": "Exhaust Coating",
@@ -5725,7 +5725,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": true,
-    "Description": "An arrow coating that causes arrows to drain monsters' stamina. Capacity: 20"
+    "Description": "An arrow coating that causes arrows to drain monsters' stamina."
   },
   {
     "Name": "Blast Coating",
@@ -5757,7 +5757,7 @@
     "Is Shiny": false,
     "Is Huge Carriable": false,
     "Not Storable as an Item": false,
-    "Description": "An arrow coating that applies explosive powder to arrows. Capacity: 20"
+    "Description": "An arrow coating that applies explosive powder to arrows."
   },
   {
     "Name": "First-aid Med",
