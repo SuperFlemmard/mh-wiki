@@ -21,19 +21,22 @@ public class ToolkitApplication {
 	private static final Logger log = LoggerFactory.getLogger(ItemService.class);
 
 	public static void main(String[] args) throws IOException {
+
+		// TODO At some point with the project evolution a refactor will be necessary
+
 		// Get the service beans
 		ApplicationContext context = SpringApplication.run(ToolkitApplication.class, args);
 		ItemService itemService = context.getBean(ItemService.class);
 		LogService logService = context.getBean(LogService.class);
 		WriterService writerService = context.getBean(WriterService.class);
 
-		// Read the file and populate the list
-		// Replace the value with the file in ressources/input you want to read
+		// Reads the file and populate the list
+		// Replaces the value with the file in ressources/input you want to read
 		String filename = "mhwi.items.json";
 		List<Item> items = itemService.getItemsFromJson(filename);
 		log.info("The file has {} items", items.size());
 
-		// Sort the items based on their type and filter them
+		// Sorts the items based on their type and filter them
 		List<Item> consumables = items.stream()
 				.filter(item ->
 						StringUtils.equals(item.getType(), ItemTypeEnum.CONSUMABLE_TYPE)
@@ -77,7 +80,7 @@ public class ToolkitApplication {
 						&& !StringUtils.equals(item.getDescription(), "Unavailable")
 				).toList();
 
-		// Log
+		// Log some info
 		logService.logSizes(consumables.size(), materials.size(), ammunitions.size(), accountItems.size(), jewels.size(), roomDecos.size());
 
 		// Write to txt file

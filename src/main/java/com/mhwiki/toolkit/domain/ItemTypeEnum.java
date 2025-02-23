@@ -1,5 +1,8 @@
 package com.mhwiki.toolkit.domain;
 
+/**
+ * Enumeration representing all the item types present in the input file
+ */
 public class ItemTypeEnum {
 
     public static final String CONSUMABLE_TYPE = "Item";

@@ -9,13 +9,13 @@ import org.springframework.stereotype.Service;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 
 @Service
 public class WriterService {
 
+    // Wiki text syntax and genereic text
     private static final String FILE_HEADER = "{{#seo:\n" +
             "|title=Items in Monster Hunter World : Iceborne\n" +
             "|description=A list of all gatherable items in Monster Hunter World: Iceborne.\n" +
@@ -31,16 +31,20 @@ public class WriterService {
 
     private static final String TABLE_END = "|}\n";
 
+    // Logger
     private static final Logger log = LoggerFactory.getLogger(WriterService.class);
 
     /**
      * Takes the lists of items and write them to a .txt file understandable by MediaWiki
      */
     public void writeToFile(List<Item> consumables, List<Item> materials, List<Item> ammunitions, List<Item> accountItems, List<Item> jewels, List<Item> roomDecorations) throws IOException {
+
+        // Naming the file with the current date
         LocalDateTime now = LocalDateTime.now();
         String fileName = now.getYear() + "-" + now.getMonthValue() + "-" + now.getDayOfMonth() + "--" + now.getHour() +now.getMinute() + now.getSecond()  + ".txt";
         log.info("Writing to {} file", fileName);
 
+        // Create the file with the headers and different lists of items
         BufferedWriter writer = new BufferedWriter(new FileWriter(fileName, false));
         writer.write(FILE_HEADER);
         writer.write(TOC);
@@ -65,19 +69,12 @@ public class WriterService {
         writeItems(accountItems, writer);
         writer.write(TABLE_END);
 
-        writer.write("== Decorations ==\n");
-        writer.write(TABLE_START);
-        writeItems(jewels, writer);
-        writer.write(TABLE_END);
-
-        writer.write("== Room Furnishings ==\n");
-        writer.write(TABLE_START);
-        writeItems(roomDecorations, writer);
-        writer.write(TABLE_END);
-
         writer.close();
     }
 
+    /**
+     * Takes a list of item (by category) then generates the wiki text syntax
+     */
     private void writeItems(List<Item> items, BufferedWriter writer) throws IOException {
         for (Item item : items) {
             String text = "";
@@ -87,12 +84,15 @@ public class WriterService {
             text += "| align=\"center\" |" + getPrice(item.getBuyPrice()) + "\n";
             text += "| align=\"center\" |" + getPrice(item.getSellPrice()) + "\n";
             text += "| align=\"center\" |" + item.getCarryLimit() + "\n";
-            text += "| " + item.getDescription() + "\n"; // TODO handle the "(Quest only)" type of text to color them in yellow
+            text += "| " + item.getDescription() + "\n";
 
             writer.write(text);
         }
     }
 
+    /**
+     * Format the buying and selling price of items
+     */
     private String getPrice(int price) {
         return price == 0 ? "-" : price + "z";
     }
